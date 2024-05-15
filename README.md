@@ -13,10 +13,11 @@ Prosty Terminal Plików to skrypt napisany w Pythonie, który umożliwia wykonyw
 3. **Usuń plik**: Usuwa plik o podanej nazwie.
 4. **Wyjdź**: Kończy działanie skryptu.
 
+## Autor
+
+Skrypt został napisany przez Z1emniakPL.
+
 ## Uwagi
 
 Ten skrypt jest prostym narzędziem do zarządzania plikami. Nie zapewnia on pełnej funkcjonalności terminala plików, ale jest dobrym punktem wyjścia do nauki manipulacji plikami w Pythonie. Pamiętaj, aby zawsze zachować ostrożność podczas usuwania plików. Skrypt nie oferuje funkcji przywracania usuniętych plików.
 
-## Autor
-
-Skrypt został napisany przez Z1emniakPL.
