@@ -15,7 +15,7 @@ Prosty Terminal Plików to skrypt napisany w Pythonie, który umożliwia wykonyw
 
 ## Autor
 
-Skrypt został napisany przez Z1emniakPL.
+Skrypt został napisany przez [Z1emniakPL](https://github.com/Z1emniakPL/)
 
 ## Uwagi
 
